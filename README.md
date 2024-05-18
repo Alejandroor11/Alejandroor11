@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, Alejandro Ospina
+#### Full-Stack developer
+![Full-Stack developer](https://i.ibb.co/fN4nYxC/Banner.png)
 
-<!--
-**Alejandroor11/Alejandroor11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Alejandro, a full-stack developer. I really love challenges and continuous learning. Most of my experience is with Angular and Node.js however, I also enjoy programming in other languages such as Python and Java.
 
-Here are some ideas to get you started:
+Skills: Angular / NodeJs / TypeScript / GraphQL / Docker / AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on V1-Insight 
+- 🌱 I’m currently learning AWS developer associate certification 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Alejandroor11)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alejandroospinarojas/) 
