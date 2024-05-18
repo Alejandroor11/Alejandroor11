@@ -3,7 +3,7 @@
 ## Alejandro Ospina
 ### Frontend developer
 
-I am Alejandro, a full-stack developer. I really love challenges and continuous learning. Most of my experience is with Angular and Node.js however, I also enjoy programming in other languages such as Python and Java.
+I am Alejandro, a frontend developer. I really love challenges and continuous learning. Most of my experience is with Angular and Node.js however, I also enjoy programming in other languages such as Python and Java.
 
 Skills: Angular / NodeJs / TypeScript / GraphQL / Docker / AWS
 
