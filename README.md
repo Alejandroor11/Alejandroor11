@@ -5,10 +5,10 @@
 
 I am Alejandro, a frontend developer. I really love challenges and continuous learning. Most of my experience is with Angular and Node.js however, I also enjoy programming in other languages such as Python and Java.
 
-Skills: Angular / NodeJs / TypeScript / GraphQL / Docker / AWS
+Skills: Angular / NodeJs / TypeScript / GraphQL / Docker / AWS / Jenkins
 
-- 🔭 I’m currently working on V1-Insight 
-- 🌱 I’m currently learning AWS developer associate certification 
+- 🔭 I’m currently working on V1-Insight
+- 🌱 I’m currently learning Golang
 
 
 
